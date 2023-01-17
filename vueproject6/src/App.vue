@@ -206,5 +206,14 @@ export default {
       </p>
     </div>
   </form>
+
   <h3>{{ bec }}</h3>
-</template>
+
+</template> 
+
+<style >
+  h3{
+    color: white; 
+   
+  }
+</style>
